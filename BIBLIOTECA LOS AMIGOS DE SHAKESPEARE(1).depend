@@ -1,0 +1,80 @@
+# depslib dependency file v1.0
+1671078130 source:c:\users\karina\desktop\biblioteca los amigos de shakespeare\main.cpp
+	<iostream>
+	<cstring>
+	<ctype.h>
+	<windows.h>
+	<ctime>
+	"rlutil.h"
+	"funcionesGraficas.h"
+	"funcionesGlobales.h"
+	"claseFecha.h"
+	"claseDireccion.h"
+	"claseLibros.h"
+	"claseSocios.h"
+	"clasePrestamo.h"
+	"claseHistorial.h"
+	"funcionesLibros.h"
+	"funcionesSocio.h"
+	"funcionesPrestamo.h"
+	"funcionesReportes.h"
+	"funcionesHistorial.h"
+	"funcionesConfiguraciones.h"
+	"menuLibros.h"
+	"menuSocios.h"
+	"menuPrestamos.h"
+	"menuReportes.h"
+	"menuConfiguraciones.h"
+
+1667357923 c:\users\karina\desktop\biblioteca los amigos de shakespeare\funcionesglobales.h
+
+1671072948 c:\users\karina\desktop\biblioteca los amigos de shakespeare\clasefecha.h
+
+1671076920 c:\users\karina\desktop\biblioteca los amigos de shakespeare\claselibros.h
+
+1671078158 c:\users\karina\desktop\biblioteca los amigos de shakespeare\funcioneslibros.h
+
+1670827330 c:\users\karina\desktop\biblioteca los amigos de shakespeare\menulibros.h
+
+1671076920 c:\users\karina\desktop\biblioteca los amigos de shakespeare\clasesocios.h
+
+1671075650 c:\users\karina\desktop\biblioteca los amigos de shakespeare\funcionessocio.h
+
+1671075650 c:\users\karina\desktop\biblioteca los amigos de shakespeare\menusocios.h
+
+1671072948 c:\users\karina\desktop\biblioteca los amigos de shakespeare\clasedireccion.h
+
+1670913595 c:\users\karina\desktop\biblioteca los amigos de shakespeare\claseprestamo.h
+
+1671077648 c:\users\karina\desktop\biblioteca los amigos de shakespeare\funcionesprestamo.h
+
+1670909469 c:\users\karina\desktop\biblioteca los amigos de shakespeare\menuprestamos.h
+
+1571584339 c:\users\karina\desktop\biblioteca los amigos de shakespeare\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1670918269 c:\users\karina\desktop\biblioteca los amigos de shakespeare\funcionesgraficas.h
+
+1671080300 c:\users\karina\desktop\biblioteca los amigos de shakespeare\funcionesreportes.h
+
+1671076080 c:\users\karina\desktop\biblioteca los amigos de shakespeare\menureportes.h
+
+1670827042 c:\users\karina\desktop\biblioteca los amigos de shakespeare\funcionesconfiguraciones.h
+
+1667361924 c:\users\karina\desktop\biblioteca los amigos de shakespeare\menuconfiguraciones.h
+
+1670909469 c:\users\karina\desktop\biblioteca los amigos de shakespeare\clasehistorial.h
+
+1670917164 c:\users\karina\desktop\biblioteca los amigos de shakespeare\funcioneshistorial.h
+
